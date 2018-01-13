@@ -1,6 +1,7 @@
 # fex
 
 WSL (Windows Subsystem for Linux) からWindowsのファイルエクスプローラを開きます。
+ただし/mnt/c以下にのみ対応です。
 
 コンパイル方法
 ```
